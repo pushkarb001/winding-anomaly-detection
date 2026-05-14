@@ -1,0 +1,4 @@
+Model,AUC,F1,Precision,Recall
+Z-score,0.996,0.9612,0.934,0.99
+Isolation Forest,0.9603,0.6957,0.5455,0.96
+LOF,1.0,0.7326,0.578,1.0

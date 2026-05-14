@@ -1,0 +1,4 @@
+Model,AUC,F1,Precision,Recall
+Z-score baseline,0.9031,0.6667,0.8462,0.55
+Logistic Regression,0.9656,0.8182,0.75,0.9
+Random Forest,0.9738,0.8108,0.8824,0.75
